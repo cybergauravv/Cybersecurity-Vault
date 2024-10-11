@@ -4051,3 +4051,15 @@ Running `python pret.py` will start an automatic printer discovery in your local
 ---
 
 <h3 align="center"><strong>Did you make it this far without considering a star? :p</strong></h3>
+
+
+## Acknowledgments & Credits
+
+A huge shoutout to the original mastermind behind this project: [Berkanktk](https://github.com/Berkanktk)! 🚀✨ This repository is a testament to their ingenuity and hard work. 
+
+Be sure to check out their original project here: [CyberSecurity](https://github.com/Berkanktk/CyberSecurity) and explore the brilliance they bring to the world of cybersecurity. 
+
+---
+
+By building upon Berkanktk's work, we hope to honor and extend their vision. Hats off to the incredible contributions they've made! 🎩🙌
+
