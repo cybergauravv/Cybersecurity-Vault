@@ -1,4 +1,4 @@
-<h2 align="center">Remember to take a look at the <code>/More</code> folder! ;)</h2>
+<h2 align="center">Remember to take a look at the <code>/More</code> folder! </h2>
 
 # List of Contents
 1. [Links](#links)
