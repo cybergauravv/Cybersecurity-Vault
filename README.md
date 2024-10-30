@@ -1,3 +1,6 @@
+<img style="display:block; margin:0 auto;" 
+src="./Images/vault.png" alt="vault" width="1200"/>
+
 <h2 align="center">Remember to take a look at the <code>/More</code> folder! </h2>
 
 # List of Contents
